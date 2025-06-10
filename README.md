@@ -48,7 +48,7 @@ Models are evaluated using the following metrics on the test set:
 - Area Under the ROC Curve (AUC) — overall model discrimination ability  
 - Matthews Correlation Coefficient (MCC) — balanced measure accounting for all confusion matrix elements
 
-## 🚀 How to Proceed and Run the Notebook
+## How to Proceed and Run the Notebook
 
 1. **Clone the repository:**
 
